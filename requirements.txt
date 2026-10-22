@@ -1,0 +1,5 @@
+strands-agents
+strands-decider   # provides the local decider server (the client in deltashield.py is stdlib only)
+python-dotenv
+streamlit
+pytest
